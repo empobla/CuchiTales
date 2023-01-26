@@ -203,7 +203,7 @@ Project Link: [https://github.com/empobla/CuchiTales](https://github.com/empobla
 [contributors-shield]: https://img.shields.io/github/contributors/empobla/CuchiTales.svg?style=for-the-badge
 [contributors-url]: https://github.com/empobla/CuchiTales/graphs/contributors
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/emilio-popovits
 
 [product-screenshot]: README/images/main.png
 
